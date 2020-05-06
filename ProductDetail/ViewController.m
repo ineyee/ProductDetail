@@ -30,6 +30,11 @@
                                         ]];
 }
 
+- (void)test {
+    
+    NSLog(@"哈哈");
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
